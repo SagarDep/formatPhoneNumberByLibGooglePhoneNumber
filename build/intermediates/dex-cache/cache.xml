@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/7.1.1/cdb737e7932c39026fb5d061c5300370d9a4ce8/libphonenumber-7.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0cdb737e7932c39026fb5d061c5300370d9a4ce8">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-7.1.1_0d41dbc2e8fb9ee701e7f320dcf2443a4bbaff79/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_10525035c6582f5ec847303c9e8ce948f87c1e67/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f96d324dfab5e3ced4414e3e8baf638ff2784614/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a597cd884a5b19dacf95f017c5e58abf04b678d2">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9b5ffc624086f41b995a6921854f2081fe85d96/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0e6a9f917068ce28c3aa1e3d405117b240e058e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bc731a7d93eae84deb602b6d6dad7e5a7d29694">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af58eb14681d62a78d7d08b1973286eacf489765/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f144da1289b610ac51cee8be7d60402965f653f3/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_18298bc0350010ce7df26924b90eece5e66d4e98/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PhoneNumberFormat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3cc51bdf68d545a8494871ed0c0a8dfe3c036b32/classes.dex" />
+    </item>
+
+</items>
